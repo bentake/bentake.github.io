@@ -405,16 +405,17 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-my-first-first-author-paper-xag-net-a-cross-slice-attention-and-skip-gating-network-for-2-5d-femur-mri-segmentation-was-accepted-to-acdsa-2025",
+          title: 'My first first-author paper, XAG-Net: A Cross-Slice Attention and Skip Gating Network for...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-our-paper-klo-net-a-dynamic-k-nn-attention-u-net-with-csp-encoder-for-efficient-prostate-gland-segmentation-from-mri-was-accepted-to-spie-medical-imaging-image-processing-2026",
+          title: 'Our paper KLO-Net: A Dynamic K-NN Attention U-Net with CSP Encoder for Efficient...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-was-awarded-the-spark-research-apprenticeship-spring-2026-a-4-000-research-award-from-northeastern-university",
+          title: 'I was awarded the SPARK Research Apprenticeship (Spring 2026), a $4,000 research award...',
+          description: "",
+          section: "News",},{id: "news-i-was-awarded-the-spark-research-apprenticeship-spring-2026-a-4-000-research-award-from-northeastern-university",
+          title: 'I was awarded the SPARK Research Apprenticeship (Spring 2026), a $4,000 research award...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -476,42 +477,28 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/cv_ko.pdf", "_blank");
         },
       },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("mailto:%6B%6F.%62%79@%6E%6F%72%74%68%65%61%73%74%65%72%6E.%65%64%75", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=TvpG3SwAAAAJ", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://www.linkedin.com/in/bk1234", "_blank");
         },
       },{
       id: 'light-theme',
