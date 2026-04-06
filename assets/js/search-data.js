@@ -21,7 +21,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/https:/bentake.github.io/assets/pdf/cv_ko.pdf";
           },
         },{id: "post-a-post-with-plotly-js",
         
