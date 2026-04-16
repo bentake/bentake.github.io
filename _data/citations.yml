@@ -1,0 +1,11 @@
+metadata:
+  last_updated: '2026-04-08'
+papers:
+  TvpG3SwAAAAJ:d1gkVwhDpl0C:
+    citations: 0
+    title: 'KLO-Net: A Dynamic K-NN Attention U-Net with CSP Encoder for Efficient Prostate Gland Segmentation from MRI'
+    year: '2026'
+  TvpG3SwAAAAJ:u5HHmVD_uO8C:
+    citations: 1
+    title: 'XAG-Net: A Cross-Slice Attention and Skip Gating Network for 2.5D Femur MRI Segmentation'
+    year: '2025'
