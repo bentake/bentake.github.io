@@ -398,7 +398,7 @@ ninja.data = [{
           title: 'I was awarded the Khoury Research Apprenticeship (Fall 2025), a $7,500 research award...',
           description: "",
           section: "News",},{id: "news-our-paper-klo-net-a-dynamic-k-nn-attention-u-net-with-csp-encoder-for-efficient-prostate-gland-segmentation-from-mri-was-accepted-to-spie-medical-imaging-image-processing-2026",
-          title: 'Our paper KLO-Net: A Dynamic K-NN Attention U-Net with CSP Encoder for Efficient...',
+          title: 'Our paper, KLO-Net: A Dynamic K-NN Attention U-Net with CSP Encoder for Efficient...',
           description: "",
           section: "News",},{id: "news-i-was-awarded-the-spark-research-apprenticeship-spring-2026-a-4-000-research-award-from-northeastern-university",
           title: 'I was awarded the SPARK Research Apprenticeship (Spring 2026), a $4,000 research award...',
