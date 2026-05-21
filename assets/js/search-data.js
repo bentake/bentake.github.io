@@ -391,8 +391,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-my-first-first-author-paper-xag-net-a-cross-slice-attention-and-skip-gating-network-for-2-5d-femur-mri-segmentation-was-accepted-to-acdsa-2025",
-          title: 'My first first-author paper, XAG-Net: A Cross-Slice Attention and Skip Gating Network for...',
+            },},{id: "news-our-paper-xag-net-a-cross-slice-attention-and-skip-gating-network-for-2-5d-femur-mri-segmentation-was-accepted-to-acdsa-2025",
+          title: 'Our paper, XAG-Net: A Cross-Slice Attention and Skip Gating Network for 2.5D Femur...',
           description: "",
           section: "News",},{id: "news-i-was-awarded-the-khoury-research-apprenticeship-fall-2025-a-7-500-research-award-from-northeastern-university",
           title: 'I was awarded the Khoury Research Apprenticeship (Fall 2025), a $7,500 research award...',
