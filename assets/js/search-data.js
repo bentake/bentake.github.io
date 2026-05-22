@@ -403,7 +403,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-was-awarded-the-spark-research-apprenticeship-spring-2026-a-4-000-research-award-from-northeastern-university",
           title: 'I was awarded the SPARK Research Apprenticeship (Spring 2026), a $4,000 research award...',
           description: "",
-          section: "News",},{id: "news-our-paper-xssr-cross-domain-self-supervised-representative-selection-for-efficient-annotation-in-medical-image-segmentation-was-accepted-to-the-international-conference-on-artificial-intelligence-in-healthcare-aiih-2026",
+          section: "News",},{id: "news-our-paper-xssr-cross-domain-self-supervised-representative-selection-for-efficient-annotation-in-medical-image-segmentation-was-accepted-to-aiih-2026",
           title: 'Our paper, XSSR: Cross-Domain Self-Supervised Representative Selection for Efficient Annotation in Medical Image...',
           description: "",
           section: "News",},{id: "projects-project-1",
