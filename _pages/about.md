@@ -24,6 +24,6 @@ latest_posts:
 
 I am an incoming Computer Science and Engineering Ph.D. student at the <a href='https://www.nd.edu/' target='_blank'>University of Notre Dame</a>, where I will be advised by Professor <a href='https://sites.nd.edu/chaoli-wang/' target='_blank'>Chaoli Wang</a>.
 
-My research lies at the intersection of computer vision, machine learning, and healthcare. I develop scalable, data-efficient models for biomedical image analysis that are robust to distribution shifts and heterogeneous data. My work addresses challenges such as data scarcity, noisy annotations, and variability in imaging protocols and acquisition conditions.
+My research spans computer vision, machine learning, and healthcare. I develop scalable, data-efficient models for biomedical image analysis that are robust to distribution shifts and heterogeneous data. My work addresses challenges such as data scarcity, noisy annotations, and variability in imaging protocols and acquisition conditions.
 
 Prior to my Ph.D. studies, I earned an M.S. in Computer Science from <a href='https://www.northeastern.edu/' target='_blank'>Northeastern University</a>, where I was advised by Professor <a href='https://www.khoury.northeastern.edu/people/jeongkyu-lee/' target='_blank'>Jeongkyu Lee</a>, and a B.A. in Economics and Applied and Computational Mathematics and Statistics (ACMS) from the <a href='https://www.nd.edu/' target='_blank'>University of Notre Dame</a>.
