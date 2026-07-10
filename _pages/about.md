@@ -22,7 +22,7 @@ latest_posts:
   enabled: false
 ---
 
-I am an incoming Computer Science and Engineering Ph.D. student at the <a href='https://www.nd.edu/' target='_blank'>University of Notre Dame</a>, where I will be advised by Professor <a href='https://sites.nd.edu/chaoli-wang/' target='_blank'>Chaoli Wang</a>.
+I am a Computer Science and Engineering Ph.D. student at the <a href='https://www.nd.edu/' target='_blank'>University of Notre Dame</a>, where I am advised by Professor <a href='https://sites.nd.edu/chaoli-wang/' target='_blank'>Chaoli Wang</a>.
 
 My research spans computer vision, machine learning, and healthcare. I develop scalable, data-efficient models for biomedical image analysis that are robust to distribution shifts and heterogeneous data. My work addresses challenges such as data scarcity, noisy annotations, and variability in imaging protocols and acquisition conditions.
 
