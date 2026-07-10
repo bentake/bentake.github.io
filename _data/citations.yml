@@ -1,6 +1,10 @@
 metadata:
-  last_updated: '2026-04-08'
+  last_updated: '2026-07-03'
 papers:
+  TvpG3SwAAAAJ:9yKSN-GCB0IC:
+    citations: 0
+    title: 'XSSR: Cross-Domain Self-Supervised Representative Selection for Efficient Annotation in Medical Image Segmentation'
+    year: '2026'
   TvpG3SwAAAAJ:d1gkVwhDpl0C:
     citations: 0
     title: 'KLO-Net: A Dynamic K-NN Attention U-Net with CSP Encoder for Efficient Prostate Gland Segmentation from MRI'
